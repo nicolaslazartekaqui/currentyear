@@ -1,8 +1,6 @@
-# Current Year
-
-Web app using `sinatra` to return current year.
+## Current Year
 
 ```
-/       # return a html with current year
-/json   # return a json with '{'year': curent_year}
+/       # return a html
+/json   # return a json
 ```
